@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:15
+#+DATE: 2016-06-08 14:16
 #+TITLE: 神僧傳
 #+PROPERTY: CBETA_ID T50n2064
 #+PROPERTY: ID KR6r0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2064
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0057_T_005-0976b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
@@ -676,7 +676,7 @@
 * 明淨¶
 
 釋明淨。高密人。少出家味定為業。後南遊東¶
-越天台諸山。禪觀在懷無緣世習。而衣服襤¶
+越天台諸山。禪觀在懷無緣世習。而衣服[糸*監]¶
 縷動止適時。同侶禪徒未知弘仰。山粒致絕。¶
 日至村中每從乞食。齎還中路值於群虎。皆¶
 張口閉目若有飢相。淨曰。吾經行山澤多矣。¶

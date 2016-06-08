@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:15
+#+DATE: 2016-06-08 14:16
 #+TITLE: 神僧傳
 #+PROPERTY: CBETA_ID T50n2064
 #+PROPERTY: ID KR6r0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2064
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0057_T_002-0954c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -247,7 +247,7 @@
 義。往復移時彌增疑昧。遠乃引莊子義為連¶
 類。於惑者曉然。是後安公特聽慧遠不廢俗¶
 書。安有弟子法遇曇徵。皆風才照灼志業清¶
-敏。並推服焉。後隨安公南遊樊沔。偽秦建元¶
+敏。並推服焉。後隨安公南遊樊[沔-丏+丐]。偽秦建元¶
 九年。秦將符平。𡨥并襄陽。道安為朱序所拘¶
 不能得去。乃分遣徒眾各隨所之。皆被誨約。¶
 遠不蒙一言。遠乃跪曰。獨無訓勗懼非人例。¶

@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:15
+#+DATE: 2016-06-08 14:16
 #+TITLE: 神僧傳
 #+PROPERTY: CBETA_ID T50n2064
 #+PROPERTY: ID KR6r0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2064
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0057_T_008-1000b> ¶¶¶
 #+PROPERTY: JUAN 8
 ¶
@@ -227,7 +227,7 @@
 座而轉。至四年六月十五日集眾布薩。至晚¶
 乃命侍者剃髮浴軀。是夜瑞雲覆剎天樂聞¶
 空。十六朝怡然坐化。時風雨震蕩樹木摧折。¶
-山中鳥獸哀鳴林壑。巖間哭聲數日方止。春¶
+山中鳥獸哀鳴林[堅-臣+(虍-七+(一/谷))]。巖間哭聲數日方止。春¶
 秋八十有七。
 <pb:KR6r0057_T_008-1002c>¶
 
@@ -289,7 +289,7 @@
 中。曰慮損君子福田。請自澇漉。聞去賊徒入¶
 水求之不得。及聞到州金冥然已在其院。時¶
 山路有虎豹。聞或逢之。將杖叩其腦曰。汝勿¶
-害人。吾造功德。何不入緣。明日虎銜野猪投¶
+害人。吾造功德。何不入緣。明日虎[啣-止+山]野猪投¶
 聞前弭尾而去。凡舉事皆成。歸信如流多奇¶
 異焉。¶
 

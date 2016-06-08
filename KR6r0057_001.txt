@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:15
+#+DATE: 2016-06-08 14:16
 #+TITLE: 神僧傳
 #+PROPERTY: CBETA_ID T50n2064
 #+PROPERTY: ID KR6r0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2064
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0057_T_001-0948b> 
 #+PROPERTY: JUAN 1
 No. 2064¶
@@ -546,7 +546,7 @@ No. 2064¶
 石兇疆虐害非道。若不與澄同日。孰可言哉。¶
 但百姓蒙益日用而不知耳。佛調須菩提等¶
 數十名僧。出自天竺康居。不遠數萬里路。足¶
-涉流沙詣澄受訓。樊沔釋道安。中山竺法雅。¶
+涉流沙詣澄受訓。樊[沔-丏+丐]釋道安。中山竺法雅。¶
 並跨越關河聽澄講說。皆妙達精理研測幽¶
 微。澄自說。生處去鄴九萬餘里棄家入道一¶
 百九年。酒不踰齒過中不食。非戒不履無欲¶

@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 14:15
+#+DATE: 2016-06-08 14:16
 #+TITLE: 神僧傳
 #+PROPERTY: CBETA_ID T50n2064
 #+PROPERTY: ID KR6r0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 50, No. 2064
 #+PROPERTY: VOL 50
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6r0057_T_004-0969a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
@@ -200,7 +200,7 @@
 香屢勸之不斷。後因三月又如前集。香令人¶
 穿坑方丈許。忽曰。檀越等嘗自飲噉未曾與¶
 香。今日須飡一頓。諸人爭奉殽酒。隨得隨盡¶
-若填巨壑。至晚曰。我大醉飽扶我就坑。不爾¶
+若填巨[堅-臣+(虍-七+(一/谷))]。至晚曰。我大醉飽扶我就坑。不爾¶
 汗地。及至坑所張口大吐。雉肉自口出即能¶
 飛鳴。羊肉自口出即能馳走。酒肉亂出將欲¶
 滿坑。魚鮓鵝鴨游泳交錯。眾咸驚嗟。誓斷宰¶
